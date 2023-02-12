@@ -118,9 +118,9 @@ params:
     enable: true
     intro: "I am"
     title: "RHS."
-    subtitle: "I develop, write, consult and architect"
+    subtitle: "I program, manage, consult, write and architect"
     content: "I'm a backend software engineer, a technical writer, a technical project manager, technical consultant and deep learning (AI) engineer."
-    image: /images/hero.svg
+    image: /images/hero.png
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
