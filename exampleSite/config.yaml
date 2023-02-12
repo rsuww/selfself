@@ -188,9 +188,9 @@ params:
         content: |-
         
           Publications in artificial intelligence, deep learning and cybersecurity:
-          - "CLASSIFYING PLANT DISEASES USING DEEP LEARNING", (2021). ICICS 2021. (https://ieeexplore.ieee.org/document/9464561/)
-          - "INTRUSION DETECTION FOR CAN USING DEEP LEARNING TECHNIQUES",(2021). ACS 2021. (https://www.researchgate.net/publication/358316533_Intrusion_Detection_for_CAN_Using_Deep_Learning_Techniques)
-          - "VISUAL CLASSIFICATION OF PLANT DISEASE", (2022). INFORMATICS JOURNAL ISSUE 2022. (https://www.mdpi.com/2227-9709/9/3/55)
+          - ["CLASSIFYING PLANT DISEASES USING DEEP LEARNING", (2021). ICICS 2021.](https://ieeexplore.ieee.org/document/9464561/)
+          - ["INTRUSION DETECTION FOR CAN USING DEEP LEARNING TECHNIQUES",(2021). ACS 2021.] (https://www.researchgate.net/publication/358316533_Intrusion_Detection_for_CAN_Using_Deep_Learning_Techniques)
+          - ["VISUAL CLASSIFICATION OF PLANT DISEASE", (2022). INFORMATICS JOURNAL ISSUE 2022.] (https://www.mdpi.com/2227-9709/9/3/55)
 
           Extracurricular Activities
             - Yale Young Global Scholars Program 
@@ -225,7 +225,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: jojigopher@gmail.com
+    email: gurusabarisha@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
