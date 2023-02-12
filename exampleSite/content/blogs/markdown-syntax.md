@@ -1,23 +1,29 @@
 ---
-title: "Markdown Syntax"
+title: "Solidity, Handle with Care"
 date: 2021-04-03T23:29:21+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+author: "4111self"
 tags:
-  - Markdown syntax
-  - Sample
-  - example
-image: /images/post.jpg
+  - Solidity
+  - Blockchain
+image: https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png
 description: ""
 toc:
 ---
 
-## Paragraph
+## Solidity Shortcomings
+As a programmer with some experience in Solidity, the programming language used to write smart contracts on the Ethereum blockchain, I've come to realize that while it's a powerful tool, it also has some significant flaws that can lead to unintended consequences.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+Let's dive deep into the intricacies of Solidity and examine these flaws, as well as their implications on smart contracts and the Ethereum network.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+One of the biggest issues with Solidity is its lack of inheritance capabilities. Inheritance is a fundamental feature in Object-Oriented Programming (OOP) and allows developers to build complex systems by creating a hierarchy of classes that inherit properties and behaviors from a parent class. Without inheritance, developers are forced to reinvent the wheel for every new smart contract they write, making the code more complex and prone to errors.
+
+Another flaw in Solidity is its handling of exceptions. Unlike most programming languages, Solidity doesn't have a try-catch mechanism to handle exceptions. Instead, it uses a require() function, which throws an exception and reverts all changes made to the state if the condition inside the require statement is not met. While this might seem straightforward, it's a double-edged sword that can lead to unintended consequences. For example, if a smart contract calls another contract and that contract throws an exception, the calling contract will also be terminated, leading to a cascade of failures and potential loss of funds.
+
+Finally, Solidity is susceptible to vulnerabilities such as the well-known Reentrancy Attack. This attack allows an attacker to repeatedly call a smart contract's functions and extract funds before the contract has a chance to update its internal state. This vulnerability is a direct consequence of the lack of proper concurrency handling in Solidity and can lead to massive losses if not mitigated properly.
+
+In conclusion, while Solidity is a powerful tool for developing smart contracts on the Ethereum blockchain, its limitations and flaws can lead to unintended consequences. Developers must be aware of these flaws and take proper precautions when writing and deploying smart contracts to minimize the risk of loss of funds and other security incidents. It's important that the Ethereum community continues to work towards improving Solidity and making it a safer and more robust programming language for smart contracts.
 
 ## Blockquotes
 
