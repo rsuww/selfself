@@ -7,7 +7,7 @@ tags:
   - Markdown syntax
   - ZK
   - example
-image: /images/mathjax.png
+image: https://miro.medium.com/max/1200/1*yxf5aQNPsJFi2Zdc8z779A.png
 description: ""
 toc: true
 mathjax: true
