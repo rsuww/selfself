@@ -29,11 +29,7 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -162,7 +158,7 @@ params:
         date: "Jan 2020 - present"
         featuredLink:
           enable: true
-        content: "I am currently working as a backend software developer at [example org.](https://example.com) in Dubai, UAE. I have worked on complex microservices that handle millions of requests per day and serve many users."
+        content: "I am currently working as a backend software developer and TPM at TU DMCC in Dubai, UAE. I have worked on complex microservices that handle millions of requests per day and serve many users."
   # Education
   education:
     enable: true
