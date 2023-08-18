@@ -113,7 +113,7 @@ params:
   hero:
     enable: true
     intro: "I am"
-    title: "RHS."
+    title: "Riiiiira."
     subtitle: "I program, manage, consult, write and architect"
     content: "I'm a backend software engineer, a technical writer, a technical project manager, technical consultant and deep learning (AI) engineer."
     image: /images/hero.png
