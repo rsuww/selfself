@@ -112,11 +112,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "I am"
-    title: "Riiiiira."
-    subtitle: "I program, manage, consult, write and architect"
-    content: "I'm a backend software engineer, a technical writer, a technical project manager, technical consultant and deep learning (AI) engineer."
-    image: /images/hero.png
+    intro: "Task"
+    title: "Man"
+    subtitle: "Connect with Local Taskers Today!"
+    content: "Post tasks, find taskers, get things done."
+    image: https://i.pinimg.com/originals/33/40/52/3340521688fa5a8774f06e802813e777.png
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
