@@ -112,11 +112,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Task"
-    title: "Man"
+    intro: ""
+    title: "Wasselly"
     subtitle: "Connect with Local Taskers Today!"
-    content: "Post tasks, find taskers, get things done."
-    image: https://i.pinimg.com/originals/33/40/52/3340521688fa5a8774f06e802813e777.png
+    content: "Imagine if you had a dedicated personal assistant for a limited amount of time? Forgot your ID? Need something from a shop that doesn't deliver? Don't sweat it! Download Wasselly now and have all your worries disappear. "
+    image: /images/wassellylogo.png
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
