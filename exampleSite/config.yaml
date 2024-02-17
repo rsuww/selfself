@@ -113,7 +113,7 @@ params:
   hero:
     enable: true
     intro: ""
-    title: "Wasselly"
+    title: "My Resume"
     subtitle: "Connect with Local Taskers Today!"
     content: "Imagine if you had a dedicated personal assistant for a limited amount of time? Forgot your ID? Need something from a shop that doesn't deliver? Don't sweat it! Download Wasselly now and have all your worries disappear. "
     image: /images/wassellylogo.png
@@ -239,7 +239,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: jojigopher@gmail.com
+    email: suwwan.rh@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -255,7 +255,7 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com/jojigoph
+      github: https://github.com/rsuww
 
   # List pages like blogs and posts
   listPages:
