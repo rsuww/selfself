@@ -113,9 +113,9 @@ params:
   hero:
     enable: true
     intro: ""
-    title: "Rawan S"
-    subtitle: "I'm a new grad who joined the grad program at Cisco in Dubai and currently do software development for AI-assisted automation solutions for the biggest ISPs in the UAE. "
-    content: "My main skills are programming in Go, Python and building AI web apps in the weekend."
+    title: "Rawan H"
+    subtitle: "New grad working on software and AI"
+    content: "I'm a new grad who joined the grad program at Cisco in Dubai and currently do software development for AI-assisted automation solutions for the biggest ISPs in the UAE. . My main skills are programming in Go, Python and building AI web apps in the weekend."
     image: 
     # roundImage: true # Make hero image circular | default false
     button:
