@@ -1,4 +1,4 @@
-baseURL: "https://4111self.netlify.app/"
+baseURL: "https://r-hs.info/"
 languageCode: "en-us"
 title: "Portfolio & Self"
 theme: hugo-profile
@@ -24,11 +24,7 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
+    - 
     
     #Dropdown menu
     # - identifier: dropdown
@@ -114,8 +110,8 @@ params:
     enable: true
     intro: ""
     title: "Rawan S"
-    subtitle: "I'm a new grad who joined the grad program at Cisco in Dubai and currently do software development for AI-assisted automation solutions for the biggest ISPs in the UAE. "
-    content: "My main skills are programming in Go, Python and building AI web apps in the weekend."
+    subtitle: "New grad in software and AI "
+    content: "I'm a new grad who joined the grad program at Cisco in Dubai and currently do software development for AI-assisted automation solutions for the biggest ISPs in the UAE. My main skills are programming in Go, Python and building AI web apps in the weekend."
     image: 
     # roundImage: true # Make hero image circular | default false
     button:
