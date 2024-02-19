@@ -113,14 +113,14 @@ params:
   hero:
     enable: true
     intro: ""
-    title: "My Resume"
-    subtitle: "Connect with Local Taskers Today!"
-    content: "Imagine if you had a dedicated personal assistant for a limited amount of time? Forgot your ID? Need something from a shop that doesn't deliver? Don't sweat it! Download Wasselly now and have all your worries disappear. "
-    image: /images/wassellylogo.png
+    title: "Rawan S"
+    subtitle: "I'm a new grad who joined the grad program at Cisco in Dubai and currently do software development for AI-assisted automation solutions for the biggest ISPs in the UAE. "
+    content: "My main skills are programming in Go, Python and building AI web apps in the weekend."
+    image: 
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "Download My Resume"
       url: "/resume.pdf"
       download: true
       newPage: false
@@ -128,37 +128,37 @@ params:
 
   # About
   about:
-    enable: true
-    title: "About Me"
-    image: "/images/me.png"
-    content: |-
-      I am a backend software engineer, technical writer and project manager with a passion for building, breaking, security and cryptography. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at a small startup in Dubai, UAE. 
-      I am currently working on a project that is focused on the digital transformation of the legal sector.
-    skills:
-      enable: true
-      title: "Here are a few technologies I've been working with recently:"
-      items:
-        - "Golang"
-        - "HTML & CSS"
-        - "Cybersecurity"
-        - "Solidity"
-        - "AI & Deep Learning"
-        - "React"
-        - "Node.js"
+    # enable: true
+    # title: "About Me"
+    # image: "/images/me.png"
+    # content: |-
+    #   I am a backend software engineer, technical writer and project manager with a passion for building, breaking, security and cryptography. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at a small startup in Dubai, UAE. 
+    #   I am currently working on a project that is focused on the digital transformation of the legal sector.
+    # skills:
+    #   enable: true
+    #   title: "Here are a few technologies I've been working with recently:"
+    #   items:
+    #     - "Golang"
+    #     - "HTML & CSS"
+    #     - "Cybersecurity"
+    #     - "Solidity"
+    #     - "AI & Deep Learning"
+    #     - "React"
+    #     - "Node.js"
       
 
   # Experience
-  experience:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - job: "Backend Software Engineer (SDEII) and TPM"
-        company: "TU DMCC"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - present"
-        featuredLink:
-          enable: true
-        content: "I am currently working as a backend software developer and TPM at TU DMCC in Dubai, UAE. I have worked on complex microservices that handle millions of requests per day and serve many users."
+  # experience:
+  #   enable: true
+  #   # title: "Custom Name"
+  #   items:
+  #     - job: "Backend Software Engineer (SDEII) and TPM"
+  #       company: "TU DMCC"
+  #       companyUrl: "https://example.com"
+  #       date: "Jan 2020 - present"
+  #       featuredLink:
+  #         enable: true
+  #       content: "I am currently working as a backend software developer and TPM at TU DMCC in Dubai, UAE. I have worked on complex microservices that handle millions of requests per day and serve many users."
   # Education
   education:
     enable: true
@@ -169,7 +169,7 @@ params:
         school:
           name: "American University of Sharjah"
           url: "https://example.org"
-        date: "2017 - 2022"
+        date: "2017 - 2023"
         GPA: "3.12 out of 4.0"
         content: |-
         
@@ -178,7 +178,7 @@ params:
           - ["INTRUSION DETECTION FOR CAN USING DEEP LEARNING TECHNIQUES",(2021). ACS 2021.](https://www.researchgate.net/publication/358316533_Intrusion_Detection_for_CAN_Using_Deep_Learning_Techniques)
           - ["VISUAL CLASSIFICATION OF PLANT DISEASE", (2022). INFORMATICS JOURNAL ISSUE 2022.](https://www.mdpi.com/2227-9709/9/3/55)
 
-          Extracurricular Activities
+          Achievements
             - Yale Young Global Scholars Program 
             - IEEE Student Day Senior Thesis Winner 
             - President of AWE SWE Affiliate
@@ -248,14 +248,14 @@ params:
     #   messageCaption: "Enter your message here"
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Technical Writing (blog)
-      enable: true
-      disableFeaturedImage: false
-    socialNetworks:
-      github: https://github.com/rsuww
+    # recentPosts:
+    #   path: "blogs"
+    #   count: 3
+    #   title: Technical Writing (blog)
+    #   enable: true
+    #   disableFeaturedImage: false
+    # socialNetworks:
+    #   github: https://github.com/rsuww
 
   # List pages like blogs and posts
   listPages:
