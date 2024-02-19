@@ -24,12 +24,7 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    
+    - identifier: 
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -193,8 +188,8 @@ params:
     # title: "Custom Name"
     items:
       - title:  HTTP Wrapper Library (open- source)
-        content: A Golang library serving as a wrapper on top of the 'http' package in Go.
-        image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Internet1.svg/2000px-Internet1.svg.png
+        content: A Golang request tracer library serving as a wrapper on top of the 'http' package in Go.
+        image: https://miro.medium.com/v2/resize:fit:971/1*06A5r9G6LQApjya2LCo2JA.png
         badges:
           - "Golang"
           - "Open-source"
@@ -241,11 +236,11 @@ params:
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: suwwan.rh@gmail.com
     btnName: Mail me
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+    formspree:
+      enable: true # `contact.email` value will be ignored
+      formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+      emailCaption: "Enter your email address"
+      messageCaption: "Enter your message here"
 
   footer:
     # recentPosts:
