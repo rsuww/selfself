@@ -172,22 +172,20 @@ params:
           - ["INTRUSION DETECTION FOR CAN USING DEEP LEARNING TECHNIQUES",(2021). ACS 2021.](https://www.researchgate.net/publication/358316533_Intrusion_Detection_for_CAN_Using_Deep_Learning_Techniques)
           - ["VISUAL CLASSIFICATION OF PLANT DISEASE", (2022). INFORMATICS JOURNAL ISSUE 2022.](https://www.mdpi.com/2227-9709/9/3/55)
       - title: "Yale Young Global Scholars Program"
-          school:
-            name: "Yale University"
-            url: "https://www.yale.edu/"
-          date: "2016"
-          content: |-
-          
-            Fully sponsored Yale Young Global Scholars Program for highly distinguished students (leadership award)
-          
+        school:
+          name: "Yale University"
+          url: "https://www.yale.edu/"
+        date: "2016"
+        content: |-
+          Fully sponsored Yale Young Global Scholars Program for highly distinguished students (leadership award)     
       - title: "Achievements"
-          content: |-
-              Achievements
-              - Yale Young Global Scholars Program 
-              - IEEE Student Day Senior Thesis Winner 
-              - President of AWE SWE Affiliate
-              - Yale Student Leadership Award
-              - CEO and Founder of Sheraa Startup (Sustainability) - Mentored in an incubator (discontinued)
+        content: |-
+          Achievements
+          - Yale Young Global Scholars Program 
+          - IEEE Student Day Senior Thesis Winner 
+          - President of AWE SWE Affiliate
+          - Yale Student Leadership Award
+          - CEO and Founder of Sheraa Startup (Sustainability) - Mentored in an incubator (discontinued)
 
 
 
