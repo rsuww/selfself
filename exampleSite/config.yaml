@@ -234,7 +234,6 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-    TheWindow. 
       - title:  The Window
         content: Launching UI browser web app to simulate tasks (Python, Puppeteer, GPT4v) (MVP is in progress)
         image: https://miro.medium.com/v2/resize:fit:971/1*06A5r9G6LQApjya2LCo2JA.png
