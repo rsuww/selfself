@@ -142,19 +142,7 @@ params:
     #     - "Node.js"
       
 
-  # Experience
-  # experience:
-  #   enable: true
-  #   # title: "Custom Name"
-  #   items:
-  #     - job: "Backend Software Engineer (SDEII) and TPM"
-  #       company: "TU DMCC"
-  #       companyUrl: "https://example.com"
-  #       date: "Jan 2020 - present"
-  #       featuredLink:
-  #         enable: true
-  #       content: "I am currently working as a backend software developer and TPM at TU DMCC in Dubai, UAE. I have worked on complex microservices that handle millions of requests per day and serve many users."
-  # Education
+ # Education
   education:
     enable: true
     # title: "Custom Name"
@@ -179,20 +167,32 @@ params:
         content: |-
           Fully sponsored Yale Young Global Scholars Program for highly distinguished students (leadership award)     
      
-
-  education:
+ #Experience
+  experience:
     enable: true
-    title: "Achievements"
-    index: false
+    # title: "Custom Name"
     items:
-      - title: "Achievements"
-        content: |-
-          Achievements
-          - Yale Young Global Scholars Program 
-          - IEEE Student Day Senior Thesis Winner 
-          - President of AWE SWE Affiliate
-          - Yale Student Leadership Award
-          - CEO and Founder of Sheraa Startup (Sustainability) - Mentored in an incubator (discontinued)
+      - job: "Associate SDE (New Grad Program)"
+        company: "Cisco"
+        companyUrl: "https://example.com"
+        date: "Mar 2023 - present"
+        featuredLink:
+          enable: true
+        content: "o"
+  
+  # education:
+  #   enable: true
+  #   title: "Achievements"
+  #   index: false
+  #   items:
+  #     - title: "Achievements"
+  #       content: |-
+  #         Achievements
+  #         - Yale Young Global Scholars Program 
+  #         - IEEE Student Day Senior Thesis Winner 
+  #         - President of AWE SWE Affiliate
+  #         - Yale Student Leadership Award
+  #         - CEO and Founder of Sheraa Startup (Sustainability) - Mentored in an incubator (discontinued)
 
 
 
