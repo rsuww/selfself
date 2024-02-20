@@ -180,7 +180,7 @@ params:
           Fully sponsored Yale Young Global Scholars Program for highly distinguished students (leadership award)     
      
 
-education:
+  education:
     enable: true
     title: "Achievements"
     index: false
@@ -243,7 +243,7 @@ education:
     items:
       - title:  The Window
         content: Launching UI browser web app to simulate tasks (Python, Puppeteer, GPT4v) (MVP is in progress)
-        image: https://miro.medium.com/v2/resize:fit:971/1*06A5r9G6LQApjya2LCo2JA.png
+        image: https://blogs.microsoft.com/wp-content/uploads/prod/2023/02/1920x1080-Hero.png
         badges:
         links:
           - icon: fab fa-github
