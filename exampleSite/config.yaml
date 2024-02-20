@@ -163,30 +163,93 @@ params:
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "American University of Sharjah"
-          url: "https://example.org"
+          url: "https://www.aus.edu/"
         date: "2017 - 2023"
         GPA: "3.12 out of 4.0"
         content: |-
         
-          Publications in artificial intelligence, deep learning and cybersecurity:
+          Academic research publications in artificial intelligence, deep learning and cybersecurity:
           - ["CLASSIFYING PLANT DISEASES USING DEEP LEARNING", (2021). ICICS 2021.](https://ieeexplore.ieee.org/document/9464561/)
           - ["INTRUSION DETECTION FOR CAN USING DEEP LEARNING TECHNIQUES",(2021). ACS 2021.](https://www.researchgate.net/publication/358316533_Intrusion_Detection_for_CAN_Using_Deep_Learning_Techniques)
           - ["VISUAL CLASSIFICATION OF PLANT DISEASE", (2022). INFORMATICS JOURNAL ISSUE 2022.](https://www.mdpi.com/2227-9709/9/3/55)
 
-          Achievements
+     
+        
+     - title: "Yale Young Global Scholars Program"
+        school:
+          name: "Yale University"
+          url: "https://www.yale.edu/"
+        date: "2016"
+        content: |-
+        
+          Fully sponsored Yale Young Global Scholars Program for highly distinguished students (leadership award)
+        
+     - title: "Achievements"
+        content: |-
+             Achievements
             - Yale Young Global Scholars Program 
             - IEEE Student Day Senior Thesis Winner 
             - President of AWE SWE Affiliate
             - Yale Student Leadership Award
-            - CEO and Founder of Sheraa Startup (Sustainability)
-        
-     
+            - CEO and Founder of Sheraa Startup (Sustainability) - Mentored in an incubator (discontinued)
+
+
+
+  education:
+      enable: true
+      title: "Skills"
+      index: false
+      items:
+        - title: "Programming"
+          content: |-
+            C++; Golang; Python; Rust; JavaScript; SQL
+
+        - title: "Frameworks"
+          content: |-
+            Node.js; Express.js; Flask; React; Gin
+        - title: "Tools/Databases"
+          content: |-
+            Git; PostgresSQL; Docker; Kubernetes; CI/CD; Linux; Redis; MongoDB
+
+        - title: "AI/Deep Learning"
+          content: |-
+            Deep Learning; Computer Vision; Tensorflow; PyTorch; Prompting; Set-of-Mark Prompting
+
+
+  education:
+        enable: true
+        title: "My Work Experience"
+        index: false
+        items:
+          - title: "Associate SDE (New Grad Program)"
+            content: |-
+              C++; Golang; Python; Rust; JavaScript; SQL
+
+          - title: "SDE Trainee"
+            content: |-
+              Node.js; Express.js; Flask; React; Gin
+          - title: "SDE Intern"
+            content: |-
+              Git; PostgresSQL; Docker; Kubernetes; CI/CD; Linux; Redis; MongoDB
+
+
+
 
   # projects
   projects:
     enable: true
     # title: "Custom Name"
     items:
+    TheWindow. 
+      - title:  The Window
+        content: Launching UI browser web app to simulate tasks (Python, Puppeteer, GPT4v) (MVP is in progress)
+        image: https://miro.medium.com/v2/resize:fit:971/1*06A5r9G6LQApjya2LCo2JA.png
+        badges:
+        links:
+          - icon: fab fa-github
+            url: https://github.com/rawansuww/go-httpwrapper
+
+
       - title:  HTTP Wrapper Library (open- source)
         content: A Golang request tracer library serving as a wrapper on top of the 'http' package in Go.
         image: https://miro.medium.com/v2/resize:fit:971/1*06A5r9G6LQApjya2LCo2JA.png
