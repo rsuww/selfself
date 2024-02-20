@@ -178,6 +178,13 @@ params:
         date: "2016"
         content: |-
           Fully sponsored Yale Young Global Scholars Program for highly distinguished students (leadership award)     
+     
+
+education:
+    enable: true
+    title: "Achievements"
+    index: false
+    items:
       - title: "Achievements"
         content: |-
           Achievements
