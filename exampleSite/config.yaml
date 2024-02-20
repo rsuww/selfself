@@ -191,42 +191,42 @@ params:
 
 
 
-  education:
-      enable: true
-      title: "Skills"
-      index: false
-      items:
-        - title: "Programming"
-          content: |-
-            C++; Golang; Python; Rust; JavaScript; SQL
+  # education:
+  #     enable: true
+  #     title: "Skills"
+  #     index: false
+  #     items:
+  #       - title: "Programming"
+  #         content: |-
+  #           C++; Golang; Python; Rust; JavaScript; SQL
 
-        - title: "Frameworks"
-          content: |-
-            Node.js; Express.js; Flask; React; Gin
-        - title: "Tools/Databases"
-          content: |-
-            Git; PostgresSQL; Docker; Kubernetes; CI/CD; Linux; Redis; MongoDB
+  #       - title: "Frameworks"
+  #         content: |-
+  #           Node.js; Express.js; Flask; React; Gin
+  #       - title: "Tools/Databases"
+  #         content: |-
+  #           Git; PostgresSQL; Docker; Kubernetes; CI/CD; Linux; Redis; MongoDB
 
-        - title: "AI/Deep Learning"
-          content: |-
-            Deep Learning; Computer Vision; Tensorflow; PyTorch; Prompting; Set-of-Mark Prompting
+  #       - title: "AI/Deep Learning"
+  #         content: |-
+  #           Deep Learning; Computer Vision; Tensorflow; PyTorch; Prompting; Set-of-Mark Prompting
 
 
-  education:
-        enable: true
-        title: "My Work Experience"
-        index: false
-        items:
-          - title: "Associate SDE (New Grad Program)"
-            content: |-
-              C++; Golang; Python; Rust; JavaScript; SQL
+  # education:
+  #       enable: true
+  #       title: "My Work Experience"
+  #       index: false
+  #       items:
+  #         - title: "Associate SDE (New Grad Program)"
+  #           content: |-
+  #             C++; Golang; Python; Rust; JavaScript; SQL
 
-          - title: "SDE Trainee"
-            content: |-
-              Node.js; Express.js; Flask; React; Gin
-          - title: "SDE Intern"
-            content: |-
-              Git; PostgresSQL; Docker; Kubernetes; CI/CD; Linux; Redis; MongoDB
+  #         - title: "SDE Trainee"
+  #           content: |-
+  #             Node.js; Express.js; Flask; React; Gin
+  #         - title: "SDE Intern"
+  #           content: |-
+  #             Git; PostgresSQL; Docker; Kubernetes; CI/CD; Linux; Redis; MongoDB
 
 
 
