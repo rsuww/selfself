@@ -179,12 +179,12 @@ params:
         featuredLink:
           enable: true
         content: |-
-          • Built and deployed software solutions for software-defined networking in a microservices event-driven architecture with gRPCs and REST APIs in Golang (Gin) and Python (Flask)
-          • Improved performance of platform response times by 60%
-          • Used event-driven architecture with buses, messaging, queues (Kafka, RabbitMQ) and caching (Redis)
-          • Tested AI (LLM/CV neural networks) actionable insights on real-word data through software solutions
-          • Developed software and business process automation for EMEA's biggest internet service providers
-          • Led integration of generative AI solutions for achieving an autonomous network and NetDevOps (actionable
+          - Built and deployed software solutions for software-defined networking in a microservices event-driven architecture with gRPCs and REST APIs in Golang (Gin) and Python (Flask)
+          - Improved performance of platform response times by 60%
+          - Used event-driven architecture with buses, messaging, queues (Kafka, RabbitMQ) and caching (Redis)
+          - Tested AI (LLM/CV neural networks) actionable insights on real-word data through software solutions
+          - Developed software and business process automation for EMEA's biggest internet service providers
+          - Led integration of generative AI solutions for achieving an autonomous network and NetDevOps (actionable
           insights generated out of network insights, prompted as text to open source LLMs)
       - job: "Software Engineer Trainee"
         company: "CX Unicorn"
@@ -193,10 +193,10 @@ params:
         featuredLink:
           enable: true
         content: |-
-          • Package management and open-source contribution in Golang libraries (authentication and key management), integrated into every authentication layer across teams
-          • Implemented the only internal system for identity management, authorization and authentication (OAuth) and implemented OAuth 2.0 flows
-          • Engineered high-performance, scalable backend services in Golang and Node.js built integrated with Microsoft Partner products like Teams, Power BI, Azure AD, Azure AI
-          • Added tracing and HTTP request logging and open-source package was used across all microservices
+          - Package management and open-source contribution in Golang libraries (authentication and key management), integrated into every authentication layer across teams
+          - Implemented the only internal system for identity management, authorization and authentication (OAuth) and implemented OAuth 2.0 flows
+          - Engineered high-performance, scalable backend services in Golang and Node.js built integrated with Microsoft Partner products like Teams, Power BI, Azure AD, Azure AI
+          - Added tracing and HTTP request logging and open-source package was used across all microservices
 
   
   # education:
