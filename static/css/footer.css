@@ -13,7 +13,7 @@ footer a:hover {
 
 footer .card {
     background-color: var(--secondary-color) !important;
-    border-radius: .75rem;
+    border-radius: .78rem;
     cursor: context-menu;
     overflow: hidden;
     border: none;
